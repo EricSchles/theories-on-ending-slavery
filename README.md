@@ -3,5 +3,5 @@
 
 By Eric Schles
 
-[the social graph](the_social_graph.md)
-[physical_v_emotional_v_financial_slavery](physical_v_emotional_v_financial_slavery.md)
+* [the social graph](the_social_graph.md)
+* [physical_v_emotional_v_financial_slavery](physical_v_emotional_v_financial_slavery.md)
