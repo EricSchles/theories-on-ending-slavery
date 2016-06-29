@@ -19,7 +19,7 @@ class LinkedList:
   def __init__(self):
     self.reference = None
   def prepend(self,position):
-    if not self.refernece:
+    if not self.reference:
       self.reference = Node(position)
     else:
       cur = self.reference
@@ -36,7 +36,7 @@ class LinkedList:
       new_node = Node(position)
       cur.next = new_node
   def insert(self,position,talks_to):
-    cur = self.refernece
+    cur = self.reference
     while cur.next.position != talks_to and cur != None:
       cur = cur.next
     if cur:
@@ -51,12 +51,13 @@ class LinkedList:
     cur = self.reference
     while cur:
       print(cur,end="->")
+      cur = cur.next
 
 if __name__ == '__main__':
   one_way_communication = LinkedList()
   one_way_communication.prepend("Eric")
   one_way_communication.append("Mark")
   one_way_communication.insert("Sarah","Mark")
-  one_way_communication.pprint()
+  one_way_communication.pprint() #prints 'Eric'->'Sarah'->'Mark'->
 ```
       
