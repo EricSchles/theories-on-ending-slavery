@@ -1,0 +1,170 @@
+End of nations: Is there an alternative to countries?
+Nation states cause some of our biggest problems, from civil war to climate inaction. Science suggests there are better ways to run a planet
+
+Illustration of maps becoming liquid and dripping their colours onto a world mapMap: Norman Kirby; Photograph: Tatsuro Nishimura
+By Debora MacKenzie
+
+Try, for a moment, to envisage a world without countries. Imagine a map not divided into neat, coloured patches, each with clear borders, governments, laws. Try to describe anything our society does – trade, travel, science, sport, maintaining peace and security – without mentioning countries. Try to describe yourself: you have a right to at least one nationality, and the right to change it, but not the right to have none.
+
+Those coloured patches on the map may be democracies, dictatorships or too chaotic to be either, but virtually all claim to be one thing: a nation state, the sovereign territory of a “people” or nation who are entitled to self-determination within a self-governing state. So says the United Nations, which now numbers 193 of them.
+
+And more and more peoples want their own state, from Scots voting for independence to jihadis declaring a new state in the Middle East. Many of the big news stories of the day, from conflicts in Gaza and Ukraine to rows over immigration and membership of the European Union, are linked to nation states in some way.
+
+Even as our economies globalise, nation states remain the planet’s premier political institution. Large votes for nationalist parties in this year’s EU elections prove nationalism remains alive – even as the EU tries to transcend it.
+
+Yet there is a growing feeling among economists, political scientists and even national governments that the nation state is not necessarily the best scale on which to run our affairs. We must manage vital matters like food supply and climate on a global scale, yet national agendas repeatedly trump the global good. At a smaller scale, city and regional administrations often seem to serve people better than national governments.
+
+How, then, should we organise ourselves? Is the nation state a natural, inevitable institution? Or is it a dangerous anachronism in a globalised world?
+
+These are not normally scientific questions – but that is changing. Complexity theorists, social scientists and historians are addressing them using new techniques, and the answers are not always what you might expect. Far from timeless, the nation state is a recent phenomenon. And as complexity keeps rising, it is already mutating into novel political structures. Get set for neo-medievalism.
+
+Before the late 18th century there were no real nation states, says John Breuilly of the London School of Economics. If you travelled across Europe, no one asked for your passport at borders; neither passports nor borders as we know them existed. People had ethnic and cultural identities, but these didn’t really define the political entity they lived in.
+
+
+That goes back to the anthropology, and psychology, of humanity’s earliest politics. We started as wandering, extended families, then formed larger bands of hunter-gatherers, and then, around 10,000 years ago, settled in farming villages. Such alliances had adaptive advantages, as people cooperated to feed and defend themselves.
+
+War and peace
+But they also had limits. Robin Dunbar of the University of Oxford has shown that one individual can keep track of social interactions linking no more than around 150 people. Evidence for that includes studies of villages and army units through history, and the average tally of Facebook friends.
+
+But there was one important reason to have more friends than that: war. “In small-scale societies, between 10 and 60 per cent of male deaths are attributable to warfare,” says Peter Turchin of the University of Connecticut at Storrs. More allies meant a higher chance of survival.
+
+Turchin has found that ancient Eurasian empires grew largest where fighting was fiercest, suggesting war was a major factor in political enlargement. Archaeologist Ian Morris of Stanford University in California reasons that as populations grew, people could no longer find empty lands where they could escape foes. The losers of battles were simply absorbed into the enemy’s domain – so domains grew bigger.
+
+How did they get past Dunbar’s number? Humanity’s universal answer was the invention of hierarchy. Several villages allied themselves under a chief; several chiefdoms banded together under a higher chief. To grow, these alliances added more villages, and if necessary more layers of hierarchy.
+
+Hierarchies meant leaders could coordinate large groups without anyone having to keep personal track of more than 150 people. In addition to their immediate circle, an individual interacted with one person from a higher level in the hierarchy, and typically eight people from lower levels, says Turchin.
+
+These alliances continued to enlarge and increase in complexity in order to perform more kinds of collective actions, says Yaneer Bar-Yam of the New England Complex Systems Institute in Cambridge, Massachusetts. For a society to survive, its collective behaviour must be as complex as the challenges it faces – including competition from neighbours. If one group adopted a hierarchical society, its competitors also had to. Hierarchies spread and social complexity grew.
+
+Larger hierarchies not only won more wars but also fed more people through economies of scale, which enabled technical and social innovations such as irrigation, food storage, record-keeping and a unifying religion. Cities, kingdoms and empires followed.
+
+But these were not nation states. A conquered city or region could be subsumed into an empire regardless of its inhabitants’ “national” identity. “The view of the state as a necessary framework for politics, as old as civilisation itself, does not stand up to scrutiny,” says historian Andreas Osiander of the University of Leipzig in Germany.
+
+“The view of the state as a necessary framework for politics does not stand up”
+One key point is that agrarian societies required little actual governing. Nine people in 10 were peasants who had to farm or starve, so were largely self-organising. Government intervened to take its cut, enforce basic criminal law and keep the peace within its undisputed territories. Otherwise its main role was to fight to keep those territories, or acquire more.
+
+Even quite late on, rulers spent little time governing, says Osiander. In the 17th century Louis XIV of France had half a million troops fighting foreign wars but only 2000 keeping order at home. In the 18th century, the Dutch and Swiss needed no central government at all. Many eastern European immigrants arriving in the US in the 19th century could say what village they came from, but not what country: it didn’t matter to them.
+
+Before the modern era, says Breuilly, people defined themselves “vertically” by who their rulers were. There was little horizontal interaction between peasants beyond local markets. Whoever else the king ruled over, and whether those people were anything like oneself, was largely irrelevant.
+
+Such systems are very different from today’s states, which have well-defined boundaries filled with citizens. In a system of vertical loyalties, says Breuilly, power peaks where the overlord lives and peters out in frontier territories that shade into neighbouring regions. Ancient empires are coloured on modern maps as if they had firm borders, but they didn’t. Moreover, people and territories often came under different jurisdictions for different purposes.
+
+Simple societies
+Such loose control, says Bar-Yam, meant pre-modern political units were only capable of scaling up a few simple actions such as growing food, fighting battles, collecting tribute and keeping order. Some, like the Roman Empire, did this on a very large scale. But complexity – the different actions society could collectively perform – was relatively low.
+
+Complexity was limited by the energy a society could harness. For most of history that essentially meant human and animal labour. In the late Middle Ages, Europe harnessed more, especially water power. This boosted social complexity – trade increased, for example– requiring more government. A decentralised feudal system gave way to centralised monarchies with more power.
+
+But these were still not nation states. Monarchies were defined by who ruled them, and rulers were defined by mutual recognition – or its converse, near-constant warfare. In Europe, however, as trade grew, monarchs discovered they could get more power from wealth than war.
+
+In 1648, Europe’s Peace of Westphalia ended centuries of war by declaring existing kingdoms, empires and other polities “sovereign”: none was to interfere in the internal affairs of others. This was a step towards modern states – but these sovereign entities were still not defined by their peoples’ national identities. International law is said to date from the Westphalia treaty, yet the word “international” was not coined until 132 years later.
+
+By then Europe had hit the tipping point of the industrial revolution. Harnessing vastly more energy from coal meant that complex behaviours performed by individuals, such as weaving, could be amplified, says Bar-Yam, producing much more complex collective behaviours.
+
+End of nations: Is there an alternative to countries?
+This demanded a different kind of government. In 1776 and 1789, revolutions in the US and France created the first nation states, defined by the national identity of their citizens rather than the bloodlines of their rulers. According to one landmark history of the period, says Breuilly, “in 1800 almost nobody in France thought of themselves as French. By 1900 they all did.” For various reasons, people in England had an earlier sense of “Englishness”, he says, but it was not expressed as a nationalist ideology.
+
+End of nations: Is there an alternative to countries?
+By 1918, with the dismemberment of Europe’s last multinational empires such as the Habsburgs in the first world war, European state boundaries had been redrawn largely along cultural and linguistic lines. In Europe at least, the nation state was the new norm.
+
+End of nations: Is there an alternative to countries?
+Part of the reason was a pragmatic adaptation of the scale of political control required to run an industrial economy. Unlike farming, industry needs steel, coal and other resources which are not uniformly distributed, so many micro-states were no longer viable. Meanwhile, empires became unwieldy as they industrialised and needed more actual governing. So in 19th-century Europe, micro-states fused and empires split.
+
+These new nation states were justified not merely as economically efficient, but as the fulfilment of their inhabitants’ national destiny. A succession of historians has nonetheless concluded that it was the states that defined their respective nations, and not the other way around.
+
+France, for example, was not the natural expression of a pre-existing French nation. At the revolution in 1789, half its residents did not speak French. In 1860, when Italy unified, only 2.5 per cent of residents regularly spoke standard Italian. Its leaders spoke French to each other. One famously said that, having created Italy, they now had to create Italians – a process many feel is still taking place.
+
+“At the revolution in 1789, half of France’s residents did not speak French”
+Sociologist Siniša Maleševic of University College Dublin in Ireland believes that this “nation building” was a key step in the evolution of modern nation states. It required the creation of an ideology of nationalism that emotionally equated the nation with people’s Dunbar circle of family and friends.
+
+That in turn relied heavily on mass communication technologies. In an influential analysis, Benedict Anderson of Cornell University in New York described nations as “imagined” communities: they far outnumber our immediate circle and we will never meet them all, yet people will die for their nation as they would for their family.
+
+Such nationalist feelings, he argued, arose after mass-market books standardised vernaculars and created linguistic communities. Newspapers allowed people to learn about events of common concern, creating a large “horizontal” community that was previously impossible. National identity was also deliberately fostered by state-funded mass education.
+
+The key factor driving this ideological process, Maleševic says, was an underlying structural one: the development of far-reaching bureaucracies needed to run complex industrialised societies. For example, says Breuilly, in the 1880s Prussia became the first government to pay unemployment benefits. At first they were paid only in a worker’s native village, where identification was not a problem. As people migrated for work, benefits were made available anywhere in Prussia. “It wasn’t until then that they had to establish who a Prussian was,” he says, and they needed bureaucracy to do it. Citizenship papers, censuses and policed borders followed.
+
+That meant hierarchical control structures ballooned, with more layers of middle management. Such bureaucracy was what really brought people together in nation-sized units, argues Maleševic. But not by design: it emerged out of the behaviour of complex hierarchical systems. As people do more kinds of activities, says Bar-Yam, the control structure of their society inevitably becomes denser.
+
+In the emerging nation state, that translates into more bureaucrats per head of population. Being tied into such close bureaucratic control also encouraged people to feel personal ties with the state, especially as ties to church and village declined. As governments exerted greater control, people got more rights, such as voting, in return. For the first time, people felt the state was theirs.
+
+Natural state of affairs?
+Once Europe had established the nation state model and prospered, says Breuilly, everyone wanted to follow suit. In fact it’s hard now to imagine that there could be another way. But is a structure that grew spontaneously out of the complexity of the industrial revolution really the best way to manage our affairs?
+
+According to Brian Slattery of York University in Toronto, Canada, nation states still thrive on a widely held belief that “the world is naturally made of distinct, homogeneous national or tribal groups which occupy separate portions of the globe, and claim most people’s primary allegiance”. But anthropological research does not bear that out, he says. Even in tribal societies, ethnic and cultural pluralism has always been widespread. Multilingualism is common, cultures shade into each other, and language and cultural groups are not congruent.
+
+Moreover, people always have a sense of belonging to numerous different groups based on region, culture, background and more. “The claim that a person’s identity and well-being is tied in a central way to the well-being of the national group is wrong as a simple matter of historical fact,” says Slattery.
+
+Perhaps it is no wonder, then, that the nation-state model fails so often: since 1960 there have been more than 180 civil wars worldwide.
+
+Such conflicts are often blamed on ethnic or sectarian tensions. Failed states, such as Syria right now, are typically riven by violence along such lines. According to the idea that nation states should contain only one nation, such failures have often been blamed on the colonial legacy of bundling together many peoples within unnatural boundaries.
+
+But for every Syria or Iraq there is a Singapore, Malaysia or Tanzania, getting along okay despite having several “national” groups. Immigrant states in Australia and the Americas, meanwhile, forged single nations out of massive initial diversity.
+
+What makes the difference? It turns out that while ethnicity and language are important, what really matters is bureaucracy. This is clear in the varying fates of the independent states that emerged as Europe’s overseas empires fell apart after the second world war.
+
+According to the mythology of nationalism, all they needed was a territory, a flag, a national government and UN recognition. In fact what they really needed was complex bureaucracy.
+
+Some former colonies that had one became stable democracies, notably India. Others did not, especially those such as the former Belgian Congo, whose colonial rulers had merely extracted resources. Many of these became dictatorships, which require a much simpler bureaucracy than democracies.
+
+Dictatorships exacerbate ethnic strife because their institutions do not promote citizens’ identification with the nation. In such situations, people fall back on trusted alliances based on kinship, which readily elicit Dunbar-like loyalties. Insecure governments allied to ethnic groups favour their own, while grievances among the disfavoured groups grow – and the resulting conflict can be fierce.
+
+Recent research confirms that the problem is not ethnic diversity itself, but not enough official inclusiveness. Countries with little historic ethnic diversity are now having to learn that on the fly, as people migrate to find jobs within a globalised economy.
+
+How that pans out may depend on whether people self-segregate. Humans like being around people like themselves, and ethnic enclaves can be the result. Jennifer Neal of Michigan State University in East Lansing has used agent-based modelling to look at the effect of this in city neighbourhoods. Her work suggests that enclaves promote social cohesion, but at the cost of decreasing tolerance between groups. Small enclaves in close proximity may be the solution.
+
+But at what scale? Bar-Yam says communities where people are well mixed – such as in peaceable Singapore, where enclaves are actively discouraged – tend not to have ethnic strife. Larger enclaves can also foster stability. Using mathematical models to correlate the size of enclaves with the incidences of ethnic strife in India, Switzerland and the former Yugoslavia, he found that enclaves 56 kilometres or more wide make for peaceful coexistence – especially if they are separated by natural geographical barriers,
+
+Switzerland’s 26 cantons, for example, which have different languages and religions, meet Bar-Yam’s spatial stability test – except one. A French-speaking enclave in German-speaking Berne experienced the only major unrest in recent Swiss history. It was resolved by making it a separate canton, Jura, which meets the criteria.
+
+Again, though, ethnicity and language are only part of the story. Lars-Erik Cederman of the Swiss Federal Institute of Technology in Zurich argues that Swiss cantons have achieved peace not by geographical adjustment of frontiers, but by political arrangements giving cantons considerable autonomy and a part in collective decisions.
+
+Similarly, using a recently compiled database to analyse civil wars since 1960, Cederman finds that strife is indeed more likely in countries that are more ethnically diverse. But careful analysis confirms that trouble arises not from diversity alone, but when certain groups are systematically excluded from power.
+
+Governments with ethnicity-based politics were especially vulnerable. The US set up just such a government in Iraq after the 2003 invasion. Exclusion of Sunni by Shiites led to insurgents declaring a Sunni state in occupied territory in Iraq and Syria. True to nation-state mythology, it rejects the colonial boundaries of Iraq and Syria, as they force dissimilar “nations” together.
+
+Ethnic cleansing
+Yet the solution cannot be imposing ethnic uniformity. Historically, so-called ethnic cleansing has been uniquely bloody, and “national” uniformity is no guarantee of harmony. In any case, there is no good definition of an ethnic group. Many people’s ethnicities are mixed and change with the political weather: the numbers who claimed to be German in the Czech Sudetenland territory annexed by Hitler changed dramatically before and after the war. Russian claims to Russian-speakers in eastern Ukraine now may be equally flimsy.
+
+Both Bar-Yam’s and Cederman’s research suggests one answer to diversity within nation states: devolve power to local communities, as multicultural states such as Belgium and Canada have done.
+
+“We need a conception of the state as a place where multiple affiliations and languages and religions may be safe and flourish,” says Slattery. “That is the ideal Tanzania has embraced and it seems to be working reasonably well.” Tanzania has more than 120 ethnic groups and about 100 languages.
+
+In the end, what may matter more than ethnicity, language or religion is economic scale. The scale needed to prosper may have changed with technology – tiny Estonia is a high-tech winner – but a small state may still not pack enough economic power to compete.
+
+That is one reason why Estonia is such an enthusiastic member of the European Union. After the devastating wars in the 20th century, European countries tried to prevent further war by integrating their basic industries. That project, which became the European Union, now primarily offers member states profitable economies of scale, through manufacturing and selling in the world’s largest single market.
+
+End of nations: Is there an alternative to countries?
+What the EU fails to inspire is nationalist-style allegiance – which Maleševic thinks nowadays relies on the “banal” nationalism of sport, anthems, TV news programmes, even song contests. That means Europeans’ allegiances are no longer identified with the political unit that handles much of their government.
+
+Ironically, says Jan Zielonka of the University of Oxford, the EU has saved Europe’s nation states, which are now too small to compete individually. The call by nationalist parties to “take back power from Brussels”, he argues, would lead to weaker countries, not stronger ones.
+
+He sees a different problem. Nation states grew out of the complex hierarchies of the industrial revolution. The EU adds another layer of hierarchy – but without enough underlying integration to wield decisive power. It lacks both of Maleševic’s necessary conditions: nationalist ideology and pervasive integrating bureaucracy.
+
+Even so, the EU may point the way to what a post-nation-state world will look like.
+
+Zielonka agrees that further integration of Europe’s governing systems is needed as economies become more interdependent. But he says Europe’s often-paralysed hierarchy cannot achieve this. Instead he sees the replacement of hierarchy by networks of cities, regions and even non-governmental organisations. Sound familiar? Proponents call it neo-medievalism.
+
+End of nations: Is there an alternative to countries?
+“The future structure and exercise of political power will resemble the medieval model more than the Westphalian one,” Zielonka says. “The latter is about concentration of power, sovereignty and clear-cut identity.” Neo-medievalism, on the other hand, means overlapping authorities, divided sovereignty, multiple identities and governing institutions, and fuzzy borders.
+
+“The future exercise of power will resemble the medieval model”
+Anne-Marie Slaughter of Princeton University, a former US assistant secretary of state, also sees hierarchies giving way to global networks primarily of experts and bureaucrats from nation states. For example, governments now work more through flexible networks such as the G7 (or 8, or 20) to manage global problems than through the UN hierarchy.
+
+Ian Goldin, head of the Oxford Martin School at the University of Oxford, which analyses global problems, thinks such networks must emerge. He believes existing institutions such as UN agencies and the World Bank are structurally unable to deal with problems that emerge from global interrelatedness, such as economic instability, pandemics, climate change and cybersecurity – partly because they are hierarchies of member states which themselves cannot deal with these global problems. He quotes Slaughter: “Networked problems require a networked response.”
+
+Again, the underlying behaviour of systems and the limits of the human brain explain why. Bar-Yam notes that in any hierarchy, the person at the top has to be able to get their head around the whole system. When systems are too complex for one human mind to grasp, he argues that they must evolve from hierarchies into networks where no one person is in charge.
+
+Where does this leave nation states? “They remain the main containers of power in the world,” says Breuilly. And we need their power to maintain the personal security that has permitted human violence to decline to all-time lows.
+
+Moreover, says Dani Rodrik of Princeton’s Institute for Advanced Study, the very globalised economy that is allowing these networks to emerge needs something or somebody to write and enforce the rules. Nation states are currently the only entities powerful enough to do this.
+
+Yet their limitations are clear, both in solving global problems and resolving local conflicts. One solution may be to pay more attention to the scale of government. Known as subsidiarity, this is a basic principle of the EU: the idea that government should act at the level where it is most effective, with local government for local problems and higher powers at higher scales. There is empirical evidence that it works: social and ecological systems can be better governed when their users self-organise than when they are run by outside leaders.
+
+However, it is hard to see how our political system can evolve coherently in that direction. Nation states could get in the way of both devolution to local control and networking to achieve global goals. With climate change, it is arguable that they already have.
+
+There is an alternative to evolving towards a globalised world of interlocking networks, neo-medieval or not, and that is collapse. “Most hierarchical systems tend to become top-heavy, expensive and incapable of responding to change,” says Marten Scheffer of Wageningen University in the Netherlands. “The resulting tension may be released through partial collapse.” For nation states, that could mean anything from the renewed pre-eminence of cities to Iraq-style anarchy. An uncertain prospect, but there is an upside. Collapse, say some, is the creative destruction that allows new structures to emerge.
+
+Like it or not, our societies may already be undergoing this transition. We cannot yet imagine there are no countries. But recognising that they were temporary solutions to specific historical situations can only help us manage a transition to whatever we need next. Whether or not our nations endure, the structures through which we govern our affairs are due for a change. Time to start imagining.
+
+Leader: “In our world beyond nations, the future is medieval”
+
+This article appeared in print under the headline “Imagine there’s no countries…”
